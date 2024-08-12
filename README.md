@@ -1,0 +1,1 @@
+# Escrevi esse código baseado em um desafio proposto pelo leonardo-buta, inicialmente proposto em C#, mas resolvi testar se conseguiria fazer sozinho em PYTHON. Podem haver algums BUGS, tentarei conserta-los e implementar novas features.
